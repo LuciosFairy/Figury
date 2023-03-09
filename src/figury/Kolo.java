@@ -17,6 +17,6 @@ public class Kolo implements Figury {
 
     @Override
     public double powierzchnia() {
-        return 3.14+(promien*promien);
+        return 3.14*(promien*promien);
     }
 }
